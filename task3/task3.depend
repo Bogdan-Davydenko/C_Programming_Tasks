@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602164795 source:d:\projects\c++_projects\task3\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

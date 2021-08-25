@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608908318 source:d:\projects\c++_projects\task6\sorts.cpp
+	<iostream>
+
+1608908009 source:d:\projects\c++_projects\task6\main.cpp
+	<bits/stdc++.h>
+	"sorts.h"
+	<fstream>
+
+1607555035 d:\projects\c++_projects\task6\sorts.h
+

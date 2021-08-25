@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603373191 source:d:\projects\c++_projects\task4\funk.cpp
+	<iostream>
+	<math.h>
+
+1603373822 source:d:\projects\c++_projects\task4\main.cpp
+	<iostream>
+	"funk.h"
+
+1603372263 d:\projects\c++_projects\task4\funk.h
+

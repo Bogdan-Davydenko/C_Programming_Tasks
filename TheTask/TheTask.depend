@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1621509575 source:d:\projects\c++_projects\thetask\test.cpp
+	<bits/stdc++.h>
+	"Test.h"
+
+1621513394 source:d:\projects\c++_projects\thetask\main.cpp
+	<bits/stdc++.h>
+	"Test.h"
+	"TestBase.h"
+
+1621509575 d:\projects\c++_projects\thetask\test.h
+	<iostream>
+
+1621371381 source:d:\projects\c++_projects\thetask\testlist.cpp
+	<bits/stdc++.h>
+
+1622135288 source:d:\projects\c++_projects\thetask\testbase.cpp
+	<bits/stdc++.h>
+	"Test.h"
+	"TestBase.h"
+
+1622135282 d:\projects\c++_projects\thetask\testbase.h
+	<iostream>
+
